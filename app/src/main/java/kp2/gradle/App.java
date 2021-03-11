@@ -10,8 +10,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello Everyone!");
 
-
-        System.out.println(colorize("DevOps Project Week 2!", YELLOW_TEXT(), MAGENTA_BACK()));
+        System.out.println(colorize("DevOps Project Week 2! Implement new Library", YELLOW_TEXT(), MAGENTA_BACK()));
         System.out.println("\n");
     }
 }
